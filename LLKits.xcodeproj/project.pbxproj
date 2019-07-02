@@ -13,62 +13,62 @@
 		458AB59022CA561B00388F19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 458AB58F22CA561B00388F19 /* Assets.xcassets */; };
 		458AB59322CA561B00388F19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 458AB59122CA561B00388F19 /* LaunchScreen.storyboard */; };
 		458AB59622CA561B00388F19 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB59522CA561B00388F19 /* main.m */; };
-		458AB70822CA57CB00388F19 /* PTTPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB67422CA57CA00388F19 /* PTTPageControl.m */; };
-		458AB70922CA57CB00388F19 /* PTTGuideView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB67622CA57CA00388F19 /* PTTGuideView.m */; };
-		458AB70A22CA57CB00388F19 /* PTTNumberTransform.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB67922CA57CA00388F19 /* PTTNumberTransform.m */; };
-		458AB70B22CA57CB00388F19 /* non_select.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB67D22CA57CA00388F19 /* non_select.png */; };
-		458AB70C22CA57CB00388F19 /* PTTGestureLockV.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB67E22CA57CA00388F19 /* PTTGestureLockV.m */; };
-		458AB70D22CA57CB00388F19 /* select.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB67F22CA57CA00388F19 /* select.png */; };
-		458AB70E22CA57CB00388F19 /* PTTImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB68122CA57CA00388F19 /* PTTImageManager.m */; };
-		458AB70F22CA57CB00388F19 /* PTTCycleSrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB68422CA57CA00388F19 /* PTTCycleSrollView.m */; };
-		458AB71022CA57CB00388F19 /* UILabel+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB68722CA57CA00388F19 /* UILabel+PTT.m */; };
-		458AB71122CA57CB00388F19 /* UIButton+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB68A22CA57CA00388F19 /* UIButton+PTT.m */; };
-		458AB71222CA57CB00388F19 /* NSString+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB68C22CA57CA00388F19 /* NSString+PTT.m */; };
-		458AB71322CA57CB00388F19 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB68D22CA57CA00388F19 /* UIView+Extension.m */; };
-		458AB71422CA57CB00388F19 /* PTTUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB69022CA57CA00388F19 /* PTTUtil.m */; };
-		458AB71522CA57CB00388F19 /* PTTCamerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB69422CA57CA00388F19 /* PTTCamerManager.m */; };
-		458AB71622CA57CB00388F19 /* PTTShowAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB69622CA57CA00388F19 /* PTTShowAlertView.m */; };
-		458AB71722CA57CB00388F19 /* ShowMessageTipUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB69A22CA57CA00388F19 /* ShowMessageTipUtil.m */; };
-		458AB71822CA57CB00388F19 /* PttLoadingTip.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB69B22CA57CA00388F19 /* PttLoadingTip.m */; };
-		458AB71922CA57CB00388F19 /* PTTWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB69D22CA57CA00388F19 /* PTTWebViewController.m */; };
-		458AB71A22CA57CB00388F19 /* UIImageView+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6A022CA57CA00388F19 /* UIImageView+PTT.m */; };
-		458AB71B22CA57CB00388F19 /* UIColor+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6A522CA57CA00388F19 /* UIColor+Simple.m */; };
-		458AB71C22CA57CB00388F19 /* ColorModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6A622CA57CA00388F19 /* ColorModel.m */; };
-		458AB71D22CA57CB00388F19 /* HttpService.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6A922CA57CA00388F19 /* HttpService.m */; };
-		458AB71E22CA57CB00388F19 /* PTTReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6AB22CA57CA00388F19 /* PTTReachability.m */; };
-		458AB71F22CA57CB00388F19 /* PTTLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6AF22CA57CA00388F19 /* PTTLocationManager.m */; };
-		458AB72022CA57CB00388F19 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6B422CA57CA00388F19 /* GTMBase64.m */; };
-		458AB72122CA57CB00388F19 /* PTT_Data_Kit.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6B522CA57CA00388F19 /* PTT_Data_Kit.m */; };
-		458AB72222CA57CB00388F19 /* PTTSignatureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6B922CA57CA00388F19 /* PTTSignatureView.m */; };
-		458AB72322CA57CB00388F19 /* signatureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6BA22CA57CA00388F19 /* signatureView.m */; };
-		458AB72422CA57CB00388F19 /* PTTPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6BC22CA57CA00388F19 /* PTTPickView.m */; };
-		458AB72522CA57CB00388F19 /* PTT_Cities.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6BD22CA57CA00388F19 /* PTT_Cities.plist */; };
-		458AB72622CA57CB00388F19 /* Address.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6BE22CA57CA00388F19 /* Address.plist */; };
-		458AB72722CA57CB00388F19 /* PTT_Counties.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6BF22CA57CA00388F19 /* PTT_Counties.plist */; };
-		458AB72822CA57CB00388F19 /* PTT_Provice.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6C122CA57CA00388F19 /* PTT_Provice.plist */; };
-		458AB72922CA57CB00388F19 /* PTTNonNetwork.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6C422CA57CA00388F19 /* PTTNonNetwork.m */; };
-		458AB72A22CA57CB00388F19 /* PTTBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6C622CA57CA00388F19 /* PTTBaseViewController.m */; };
-		458AB72B22CA57CB00388F19 /* PTTStringFromHtml.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6C922CA57CA00388F19 /* PTTStringFromHtml.m */; };
-		458AB72C22CA57CB00388F19 /* back-opaque.imageset.zip in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6CD22CA57CA00388F19 /* back-opaque.imageset.zip */; };
-		458AB72D22CA57CB00388F19 /* PTTMaskManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6CE22CA57CA00388F19 /* PTTMaskManager.m */; };
-		458AB72E22CA57CB00388F19 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6D022CA57CA00388F19 /* Contents.json */; };
-		458AB72F22CA57CB00388F19 /* back-opaque@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6D122CA57CA00388F19 /* back-opaque@3x.png */; };
-		458AB73022CA57CB00388F19 /* back-opaque@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB6D222CA57CA00388F19 /* back-opaque@2x.png */; };
-		458AB73822CA57CB00388F19 /* PTTDateKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6E422CA57CA00388F19 /* PTTDateKit.m */; };
-		458AB73922CA57CB00388F19 /* PTTStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6E622CA57CA00388F19 /* PTTStoreManager.m */; };
-		458AB73A22CA57CB00388F19 /* PTTPlayAVBasic.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6E922CA57CA00388F19 /* PTTPlayAVBasic.m */; };
-		458AB73D22CA57CB00388F19 /* WeeksView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6F322CA57CB00388F19 /* WeeksView.m */; };
-		458AB73E22CA57CB00388F19 /* CalendaDaysCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6F522CA57CB00388F19 /* CalendaDaysCell.m */; };
-		458AB73F22CA57CB00388F19 /* BSLMonthCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6F722CA57CB00388F19 /* BSLMonthCollectionView.m */; };
-		458AB74022CA57CB00388F19 /* NSDate+Decomposer.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6FA22CA57CB00388F19 /* NSDate+Decomposer.m */; };
-		458AB74122CA57CB00388F19 /* MonthOpeartion.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB6FC22CA57CB00388F19 /* MonthOpeartion.m */; };
-		458AB74222CA57CB00388F19 /* CalendarModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB70022CA57CB00388F19 /* CalendarModel.m */; };
-		458AB74322CA57CB00388F19 /* BSLCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB70122CA57CB00388F19 /* BSLCalendar.m */; };
-		458AB74422CA57CB00388F19 /* ReturnFirstAlphebet.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB70322CA57CB00388F19 /* ReturnFirstAlphebet.m */; };
-		458AB74522CA57CB00388F19 /* pinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB70622CA57CB00388F19 /* pinyin.m */; };
-		458AB74E22CB09A800388F19 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB74A22CB09A800388F19 /* Reachability.m */; };
-		458AB74F22CB09A800388F19 /* LICENCE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 458AB74B22CB09A800388F19 /* LICENCE.txt */; };
-		458AB75022CB09A800388F19 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 458AB74C22CB09A800388F19 /* README.md */; };
+		458AB7DD22CB210D00388F19 /* PTTPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB75622CB210C00388F19 /* PTTPageControl.m */; };
+		458AB7DE22CB210D00388F19 /* PTTGuideView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB75822CB210C00388F19 /* PTTGuideView.m */; };
+		458AB7DF22CB210D00388F19 /* PTTNumberTransform.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB75B22CB210C00388F19 /* PTTNumberTransform.m */; };
+		458AB7E022CB210D00388F19 /* non_select.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB75F22CB210C00388F19 /* non_select.png */; };
+		458AB7E122CB210D00388F19 /* PTTGestureLockV.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76022CB210C00388F19 /* PTTGestureLockV.m */; };
+		458AB7E222CB210D00388F19 /* select.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB76122CB210C00388F19 /* select.png */; };
+		458AB7E322CB210D00388F19 /* PTTImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76322CB210C00388F19 /* PTTImageManager.m */; };
+		458AB7E422CB210D00388F19 /* PTTCycleSrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76622CB210C00388F19 /* PTTCycleSrollView.m */; };
+		458AB7E522CB210D00388F19 /* UILabel+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76922CB210C00388F19 /* UILabel+PTT.m */; };
+		458AB7E622CB210D00388F19 /* UIButton+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76C22CB210C00388F19 /* UIButton+PTT.m */; };
+		458AB7E722CB210D00388F19 /* NSString+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76E22CB210C00388F19 /* NSString+PTT.m */; };
+		458AB7E822CB210D00388F19 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB76F22CB210C00388F19 /* UIView+Extension.m */; };
+		458AB7E922CB210D00388F19 /* PTTUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB77222CB210C00388F19 /* PTTUtil.m */; };
+		458AB7EA22CB210D00388F19 /* PTTCamerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB77622CB210C00388F19 /* PTTCamerManager.m */; };
+		458AB7EB22CB210D00388F19 /* PTTShowAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB77822CB210C00388F19 /* PTTShowAlertView.m */; };
+		458AB7EC22CB210D00388F19 /* ShowMessageTipUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB77C22CB210C00388F19 /* ShowMessageTipUtil.m */; };
+		458AB7ED22CB210D00388F19 /* PttLoadingTip.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB77D22CB210C00388F19 /* PttLoadingTip.m */; };
+		458AB7EE22CB210D00388F19 /* PTTWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB78022CB210C00388F19 /* PTTWebViewController.m */; };
+		458AB7EF22CB210D00388F19 /* UIImageView+PTT.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB78322CB210C00388F19 /* UIImageView+PTT.m */; };
+		458AB7F022CB210D00388F19 /* UIColor+Simple.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB78822CB210C00388F19 /* UIColor+Simple.m */; };
+		458AB7F122CB210D00388F19 /* ColorModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB78922CB210C00388F19 /* ColorModel.m */; };
+		458AB7F222CB210D00388F19 /* HttpService.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB78C22CB210C00388F19 /* HttpService.m */; };
+		458AB7F322CB210D00388F19 /* PTTReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB78E22CB210C00388F19 /* PTTReachability.m */; };
+		458AB7F422CB210D00388F19 /* PTTLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB79222CB210C00388F19 /* PTTLocationManager.m */; };
+		458AB7F522CB210D00388F19 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB79722CB210C00388F19 /* Reachability.m */; };
+		458AB7F622CB210D00388F19 /* LICENCE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 458AB79822CB210C00388F19 /* LICENCE.txt */; };
+		458AB7F722CB210D00388F19 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 458AB79922CB210C00388F19 /* README.md */; };
+		458AB7F822CB210D00388F19 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB79C22CB210C00388F19 /* GTMBase64.m */; };
+		458AB7F922CB210D00388F19 /* PTT_Data_Kit.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB79D22CB210C00388F19 /* PTT_Data_Kit.m */; };
+		458AB7FA22CB210D00388F19 /* PTTSignatureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7A122CB210C00388F19 /* PTTSignatureView.m */; };
+		458AB7FB22CB210D00388F19 /* signatureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7A222CB210C00388F19 /* signatureView.m */; };
+		458AB7FC22CB210D00388F19 /* PTTPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7A422CB210C00388F19 /* PTTPickView.m */; };
+		458AB7FD22CB210D00388F19 /* PTT_Cities.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7A522CB210C00388F19 /* PTT_Cities.plist */; };
+		458AB7FE22CB210D00388F19 /* Address.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7A622CB210C00388F19 /* Address.plist */; };
+		458AB7FF22CB210D00388F19 /* PTT_Counties.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7A722CB210C00388F19 /* PTT_Counties.plist */; };
+		458AB80022CB210D00388F19 /* PTT_Provice.plist in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7A922CB210C00388F19 /* PTT_Provice.plist */; };
+		458AB80122CB210D00388F19 /* PTTNonNetwork.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7AC22CB210C00388F19 /* PTTNonNetwork.m */; };
+		458AB80222CB210D00388F19 /* PTTBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7AE22CB210C00388F19 /* PTTBaseViewController.m */; };
+		458AB80322CB210D00388F19 /* PTTStringFromHtml.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7B122CB210C00388F19 /* PTTStringFromHtml.m */; };
+		458AB80422CB210D00388F19 /* back-opaque.imageset.zip in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7B522CB210C00388F19 /* back-opaque.imageset.zip */; };
+		458AB80522CB210D00388F19 /* PTTMaskManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7B622CB210C00388F19 /* PTTMaskManager.m */; };
+		458AB80622CB210D00388F19 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7B822CB210C00388F19 /* Contents.json */; };
+		458AB80722CB210D00388F19 /* back-opaque@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7B922CB210C00388F19 /* back-opaque@3x.png */; };
+		458AB80822CB210D00388F19 /* back-opaque@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 458AB7BA22CB210C00388F19 /* back-opaque@2x.png */; };
+		458AB80922CB210D00388F19 /* PTTDateKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7BD22CB210C00388F19 /* PTTDateKit.m */; };
+		458AB80A22CB210D00388F19 /* PTTStoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7BF22CB210C00388F19 /* PTTStoreManager.m */; };
+		458AB80B22CB210D00388F19 /* PTTPlayAVBasic.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7C222CB210C00388F19 /* PTTPlayAVBasic.m */; };
+		458AB80C22CB210D00388F19 /* WeeksView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7C822CB210C00388F19 /* WeeksView.m */; };
+		458AB80D22CB210D00388F19 /* CalendaDaysCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7CA22CB210C00388F19 /* CalendaDaysCell.m */; };
+		458AB80E22CB210D00388F19 /* BSLMonthCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7CC22CB210C00388F19 /* BSLMonthCollectionView.m */; };
+		458AB80F22CB210D00388F19 /* NSDate+Decomposer.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7CF22CB210C00388F19 /* NSDate+Decomposer.m */; };
+		458AB81022CB210D00388F19 /* MonthOpeartion.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7D122CB210C00388F19 /* MonthOpeartion.m */; };
+		458AB81122CB210D00388F19 /* CalendarModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7D522CB210C00388F19 /* CalendarModel.m */; };
+		458AB81222CB210D00388F19 /* BSLCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7D622CB210C00388F19 /* BSLCalendar.m */; };
+		458AB81322CB210D00388F19 /* ReturnFirstAlphebet.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7D822CB210C00388F19 /* ReturnFirstAlphebet.m */; };
+		458AB81422CB210D00388F19 /* pinyin.m in Sources */ = {isa = PBXBuildFile; fileRef = 458AB7DB22CB210C00388F19 /* pinyin.m */; };
 		7BA7BDDED6AC87F8BD0CD45D /* libPods-LLKits.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 80BEA979F8A7C5B231A18139 /* libPods-LLKits.a */; };
 /* End PBXBuildFile section */
 
@@ -84,108 +84,108 @@
 		458AB59222CA561B00388F19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		458AB59422CA561B00388F19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		458AB59522CA561B00388F19 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		458AB67322CA57CA00388F19 /* PTTPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTPageControl.h; sourceTree = "<group>"; };
-		458AB67422CA57CA00388F19 /* PTTPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTPageControl.m; sourceTree = "<group>"; };
-		458AB67622CA57CA00388F19 /* PTTGuideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTGuideView.m; sourceTree = "<group>"; };
-		458AB67722CA57CA00388F19 /* PTTGuideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTGuideView.h; sourceTree = "<group>"; };
-		458AB67922CA57CA00388F19 /* PTTNumberTransform.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTNumberTransform.m; sourceTree = "<group>"; };
-		458AB67A22CA57CA00388F19 /* PTTNumberTransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTNumberTransform.h; sourceTree = "<group>"; };
-		458AB67C22CA57CA00388F19 /* PTTGestureLockV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTGestureLockV.h; sourceTree = "<group>"; };
-		458AB67D22CA57CA00388F19 /* non_select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = non_select.png; sourceTree = "<group>"; };
-		458AB67E22CA57CA00388F19 /* PTTGestureLockV.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTGestureLockV.m; sourceTree = "<group>"; };
-		458AB67F22CA57CA00388F19 /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select.png; sourceTree = "<group>"; };
-		458AB68122CA57CA00388F19 /* PTTImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTImageManager.m; sourceTree = "<group>"; };
-		458AB68222CA57CA00388F19 /* PTTImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTImageManager.h; sourceTree = "<group>"; };
-		458AB68422CA57CA00388F19 /* PTTCycleSrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTCycleSrollView.m; sourceTree = "<group>"; };
-		458AB68522CA57CA00388F19 /* PTTCycleSrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTCycleSrollView.h; sourceTree = "<group>"; };
-		458AB68722CA57CA00388F19 /* UILabel+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+PTT.m"; sourceTree = "<group>"; };
-		458AB68822CA57CA00388F19 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
-		458AB68922CA57CA00388F19 /* NSString+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+PTT.h"; sourceTree = "<group>"; };
-		458AB68A22CA57CA00388F19 /* UIButton+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+PTT.m"; sourceTree = "<group>"; };
-		458AB68B22CA57CA00388F19 /* UILabel+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+PTT.h"; sourceTree = "<group>"; };
-		458AB68C22CA57CA00388F19 /* NSString+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+PTT.m"; sourceTree = "<group>"; };
-		458AB68D22CA57CA00388F19 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
-		458AB68E22CA57CA00388F19 /* UIButton+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+PTT.h"; sourceTree = "<group>"; };
-		458AB69022CA57CA00388F19 /* PTTUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTUtil.m; sourceTree = "<group>"; };
-		458AB69122CA57CA00388F19 /* PTTUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTUtil.h; sourceTree = "<group>"; };
-		458AB69322CA57CA00388F19 /* PTTCamerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTCamerManager.h; sourceTree = "<group>"; };
-		458AB69422CA57CA00388F19 /* PTTCamerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTCamerManager.m; sourceTree = "<group>"; };
-		458AB69622CA57CA00388F19 /* PTTShowAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTShowAlertView.m; sourceTree = "<group>"; };
-		458AB69722CA57CA00388F19 /* ShowMessageTipUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowMessageTipUtil.h; sourceTree = "<group>"; };
-		458AB69822CA57CA00388F19 /* PttLoadingTip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PttLoadingTip.h; sourceTree = "<group>"; };
-		458AB69922CA57CA00388F19 /* PTTShowAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTShowAlertView.h; sourceTree = "<group>"; };
-		458AB69A22CA57CA00388F19 /* ShowMessageTipUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowMessageTipUtil.m; sourceTree = "<group>"; };
-		458AB69B22CA57CA00388F19 /* PttLoadingTip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PttLoadingTip.m; sourceTree = "<group>"; };
-		458AB69D22CA57CA00388F19 /* PTTWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTWebViewController.m; sourceTree = "<group>"; };
-		458AB69E22CA57CA00388F19 /* PTTWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTWebViewController.h; sourceTree = "<group>"; };
-		458AB6A022CA57CA00388F19 /* UIImageView+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+PTT.m"; sourceTree = "<group>"; };
-		458AB6A122CA57CA00388F19 /* UIImageView+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+PTT.h"; sourceTree = "<group>"; };
-		458AB6A322CA57CA00388F19 /* UIColor+Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Simple.h"; sourceTree = "<group>"; };
-		458AB6A422CA57CA00388F19 /* ColorModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorModel.h; sourceTree = "<group>"; };
-		458AB6A522CA57CA00388F19 /* UIColor+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Simple.m"; sourceTree = "<group>"; };
-		458AB6A622CA57CA00388F19 /* ColorModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorModel.m; sourceTree = "<group>"; };
-		458AB6A822CA57CA00388F19 /* HttpService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpService.h; sourceTree = "<group>"; };
-		458AB6A922CA57CA00388F19 /* HttpService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HttpService.m; sourceTree = "<group>"; };
-		458AB6AB22CA57CA00388F19 /* PTTReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTReachability.m; sourceTree = "<group>"; };
-		458AB6AC22CA57CA00388F19 /* PTTReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTReachability.h; sourceTree = "<group>"; };
-		458AB6AE22CA57CA00388F19 /* PTTLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTLocationManager.h; sourceTree = "<group>"; };
-		458AB6AF22CA57CA00388F19 /* PTTLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTLocationManager.m; sourceTree = "<group>"; };
-		458AB6B122CA57CA00388F19 /* GTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
-		458AB6B222CA57CA00388F19 /* PTT_Data_Kit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTT_Data_Kit.h; sourceTree = "<group>"; };
-		458AB6B322CA57CA00388F19 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
-		458AB6B422CA57CA00388F19 /* GTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
-		458AB6B522CA57CA00388F19 /* PTT_Data_Kit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTT_Data_Kit.m; sourceTree = "<group>"; };
-		458AB6B722CA57CA00388F19 /* PTTSignatureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTSignatureView.h; sourceTree = "<group>"; };
-		458AB6B822CA57CA00388F19 /* signatureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = signatureView.h; sourceTree = "<group>"; };
-		458AB6B922CA57CA00388F19 /* PTTSignatureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTSignatureView.m; sourceTree = "<group>"; };
-		458AB6BA22CA57CA00388F19 /* signatureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = signatureView.m; sourceTree = "<group>"; };
-		458AB6BC22CA57CA00388F19 /* PTTPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTPickView.m; sourceTree = "<group>"; };
-		458AB6BD22CA57CA00388F19 /* PTT_Cities.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PTT_Cities.plist; sourceTree = "<group>"; };
-		458AB6BE22CA57CA00388F19 /* Address.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Address.plist; sourceTree = "<group>"; };
-		458AB6BF22CA57CA00388F19 /* PTT_Counties.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PTT_Counties.plist; sourceTree = "<group>"; };
-		458AB6C022CA57CA00388F19 /* PTTPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTPickView.h; sourceTree = "<group>"; };
-		458AB6C122CA57CA00388F19 /* PTT_Provice.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PTT_Provice.plist; sourceTree = "<group>"; };
-		458AB6C322CA57CA00388F19 /* PTTNonNetwork.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTNonNetwork.h; sourceTree = "<group>"; };
-		458AB6C422CA57CA00388F19 /* PTTNonNetwork.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTNonNetwork.m; sourceTree = "<group>"; };
-		458AB6C622CA57CA00388F19 /* PTTBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTBaseViewController.m; sourceTree = "<group>"; };
-		458AB6C722CA57CA00388F19 /* PTTBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTBaseViewController.h; sourceTree = "<group>"; };
-		458AB6C922CA57CA00388F19 /* PTTStringFromHtml.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTStringFromHtml.m; sourceTree = "<group>"; };
-		458AB6CA22CA57CA00388F19 /* PTTStringFromHtml.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTStringFromHtml.h; sourceTree = "<group>"; };
-		458AB6CC22CA57CA00388F19 /* PTTMaskManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTMaskManager.h; sourceTree = "<group>"; };
-		458AB6CD22CA57CA00388F19 /* back-opaque.imageset.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "back-opaque.imageset.zip"; sourceTree = "<group>"; };
-		458AB6CE22CA57CA00388F19 /* PTTMaskManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTMaskManager.m; sourceTree = "<group>"; };
-		458AB6D022CA57CA00388F19 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
-		458AB6D122CA57CA00388F19 /* back-opaque@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-opaque@3x.png"; sourceTree = "<group>"; };
-		458AB6D222CA57CA00388F19 /* back-opaque@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-opaque@2x.png"; sourceTree = "<group>"; };
-		458AB6E322CA57CA00388F19 /* PTTDateKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTDateKit.h; sourceTree = "<group>"; };
-		458AB6E422CA57CA00388F19 /* PTTDateKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTDateKit.m; sourceTree = "<group>"; };
-		458AB6E622CA57CA00388F19 /* PTTStoreManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTStoreManager.m; sourceTree = "<group>"; };
-		458AB6E722CA57CA00388F19 /* PTTStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTStoreManager.h; sourceTree = "<group>"; };
-		458AB6E922CA57CA00388F19 /* PTTPlayAVBasic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTPlayAVBasic.m; sourceTree = "<group>"; };
-		458AB6EA22CA57CB00388F19 /* PTTPlayAVBasic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTPlayAVBasic.h; sourceTree = "<group>"; };
-		458AB6F222CA57CB00388F19 /* BSLMonthCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSLMonthCollectionView.h; sourceTree = "<group>"; };
-		458AB6F322CA57CB00388F19 /* WeeksView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeeksView.m; sourceTree = "<group>"; };
-		458AB6F422CA57CB00388F19 /* CalendaDaysCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendaDaysCell.h; sourceTree = "<group>"; };
-		458AB6F522CA57CB00388F19 /* CalendaDaysCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendaDaysCell.m; sourceTree = "<group>"; };
-		458AB6F622CA57CB00388F19 /* WeeksView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeeksView.h; sourceTree = "<group>"; };
-		458AB6F722CA57CB00388F19 /* BSLMonthCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSLMonthCollectionView.m; sourceTree = "<group>"; };
-		458AB6F822CA57CB00388F19 /* BSLCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSLCalendar.h; sourceTree = "<group>"; };
-		458AB6FA22CA57CB00388F19 /* NSDate+Decomposer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Decomposer.m"; sourceTree = "<group>"; };
-		458AB6FB22CA57CB00388F19 /* MonthOpeartion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MonthOpeartion.h; sourceTree = "<group>"; };
-		458AB6FC22CA57CB00388F19 /* MonthOpeartion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MonthOpeartion.m; sourceTree = "<group>"; };
-		458AB6FD22CA57CB00388F19 /* NSDate+Decomposer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Decomposer.h"; sourceTree = "<group>"; };
-		458AB6FF22CA57CB00388F19 /* CalendarModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendarModel.h; sourceTree = "<group>"; };
-		458AB70022CA57CB00388F19 /* CalendarModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendarModel.m; sourceTree = "<group>"; };
-		458AB70122CA57CB00388F19 /* BSLCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSLCalendar.m; sourceTree = "<group>"; };
-		458AB70322CA57CB00388F19 /* ReturnFirstAlphebet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReturnFirstAlphebet.m; sourceTree = "<group>"; };
-		458AB70522CA57CB00388F19 /* pinyin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pinyin.h; sourceTree = "<group>"; };
-		458AB70622CA57CB00388F19 /* pinyin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = pinyin.m; sourceTree = "<group>"; };
-		458AB70722CA57CB00388F19 /* ReturnFirstAlphebet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReturnFirstAlphebet.h; sourceTree = "<group>"; };
-		458AB74A22CB09A800388F19 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		458AB74B22CB09A800388F19 /* LICENCE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENCE.txt; sourceTree = "<group>"; };
-		458AB74C22CB09A800388F19 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		458AB74D22CB09A800388F19 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		458AB75122CB105200388F19 /* LLKits.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLKits.pch; sourceTree = "<group>"; };
+		458AB75522CB210C00388F19 /* PTTPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTPageControl.h; sourceTree = "<group>"; };
+		458AB75622CB210C00388F19 /* PTTPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTPageControl.m; sourceTree = "<group>"; };
+		458AB75822CB210C00388F19 /* PTTGuideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTGuideView.m; sourceTree = "<group>"; };
+		458AB75922CB210C00388F19 /* PTTGuideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTGuideView.h; sourceTree = "<group>"; };
+		458AB75B22CB210C00388F19 /* PTTNumberTransform.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTNumberTransform.m; sourceTree = "<group>"; };
+		458AB75C22CB210C00388F19 /* PTTNumberTransform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTNumberTransform.h; sourceTree = "<group>"; };
+		458AB75E22CB210C00388F19 /* PTTGestureLockV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTGestureLockV.h; sourceTree = "<group>"; };
+		458AB75F22CB210C00388F19 /* non_select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = non_select.png; sourceTree = "<group>"; };
+		458AB76022CB210C00388F19 /* PTTGestureLockV.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTGestureLockV.m; sourceTree = "<group>"; };
+		458AB76122CB210C00388F19 /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select.png; sourceTree = "<group>"; };
+		458AB76322CB210C00388F19 /* PTTImageManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTImageManager.m; sourceTree = "<group>"; };
+		458AB76422CB210C00388F19 /* PTTImageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTImageManager.h; sourceTree = "<group>"; };
+		458AB76622CB210C00388F19 /* PTTCycleSrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTCycleSrollView.m; sourceTree = "<group>"; };
+		458AB76722CB210C00388F19 /* PTTCycleSrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTCycleSrollView.h; sourceTree = "<group>"; };
+		458AB76922CB210C00388F19 /* UILabel+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+PTT.m"; sourceTree = "<group>"; };
+		458AB76A22CB210C00388F19 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		458AB76B22CB210C00388F19 /* NSString+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+PTT.h"; sourceTree = "<group>"; };
+		458AB76C22CB210C00388F19 /* UIButton+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+PTT.m"; sourceTree = "<group>"; };
+		458AB76D22CB210C00388F19 /* UILabel+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+PTT.h"; sourceTree = "<group>"; };
+		458AB76E22CB210C00388F19 /* NSString+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+PTT.m"; sourceTree = "<group>"; };
+		458AB76F22CB210C00388F19 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		458AB77022CB210C00388F19 /* UIButton+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+PTT.h"; sourceTree = "<group>"; };
+		458AB77222CB210C00388F19 /* PTTUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTUtil.m; sourceTree = "<group>"; };
+		458AB77322CB210C00388F19 /* PTTUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTUtil.h; sourceTree = "<group>"; };
+		458AB77522CB210C00388F19 /* PTTCamerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTCamerManager.h; sourceTree = "<group>"; };
+		458AB77622CB210C00388F19 /* PTTCamerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTCamerManager.m; sourceTree = "<group>"; };
+		458AB77822CB210C00388F19 /* PTTShowAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTShowAlertView.m; sourceTree = "<group>"; };
+		458AB77922CB210C00388F19 /* ShowMessageTipUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowMessageTipUtil.h; sourceTree = "<group>"; };
+		458AB77A22CB210C00388F19 /* PttLoadingTip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PttLoadingTip.h; sourceTree = "<group>"; };
+		458AB77B22CB210C00388F19 /* PTTShowAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTShowAlertView.h; sourceTree = "<group>"; };
+		458AB77C22CB210C00388F19 /* ShowMessageTipUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowMessageTipUtil.m; sourceTree = "<group>"; };
+		458AB77D22CB210C00388F19 /* PttLoadingTip.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PttLoadingTip.m; sourceTree = "<group>"; };
+		458AB77E22CB210C00388F19 /* LLKits.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLKits.pch; sourceTree = "<group>"; };
+		458AB78022CB210C00388F19 /* PTTWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTWebViewController.m; sourceTree = "<group>"; };
+		458AB78122CB210C00388F19 /* PTTWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTWebViewController.h; sourceTree = "<group>"; };
+		458AB78322CB210C00388F19 /* UIImageView+PTT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+PTT.m"; sourceTree = "<group>"; };
+		458AB78422CB210C00388F19 /* UIImageView+PTT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+PTT.h"; sourceTree = "<group>"; };
+		458AB78622CB210C00388F19 /* UIColor+Simple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Simple.h"; sourceTree = "<group>"; };
+		458AB78722CB210C00388F19 /* ColorModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorModel.h; sourceTree = "<group>"; };
+		458AB78822CB210C00388F19 /* UIColor+Simple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Simple.m"; sourceTree = "<group>"; };
+		458AB78922CB210C00388F19 /* ColorModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorModel.m; sourceTree = "<group>"; };
+		458AB78B22CB210C00388F19 /* HttpService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpService.h; sourceTree = "<group>"; };
+		458AB78C22CB210C00388F19 /* HttpService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HttpService.m; sourceTree = "<group>"; };
+		458AB78E22CB210C00388F19 /* PTTReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTReachability.m; sourceTree = "<group>"; };
+		458AB78F22CB210C00388F19 /* PTTReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTReachability.h; sourceTree = "<group>"; };
+		458AB79122CB210C00388F19 /* PTTLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTLocationManager.h; sourceTree = "<group>"; };
+		458AB79222CB210C00388F19 /* PTTLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTLocationManager.m; sourceTree = "<group>"; };
+		458AB79422CB210C00388F19 /* GTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
+		458AB79522CB210C00388F19 /* PTT_Data_Kit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTT_Data_Kit.h; sourceTree = "<group>"; };
+		458AB79722CB210C00388F19 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		458AB79822CB210C00388F19 /* LICENCE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENCE.txt; sourceTree = "<group>"; };
+		458AB79922CB210C00388F19 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		458AB79A22CB210C00388F19 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		458AB79B22CB210C00388F19 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
+		458AB79C22CB210C00388F19 /* GTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
+		458AB79D22CB210C00388F19 /* PTT_Data_Kit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTT_Data_Kit.m; sourceTree = "<group>"; };
+		458AB79F22CB210C00388F19 /* PTTSignatureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTSignatureView.h; sourceTree = "<group>"; };
+		458AB7A022CB210C00388F19 /* signatureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = signatureView.h; sourceTree = "<group>"; };
+		458AB7A122CB210C00388F19 /* PTTSignatureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTSignatureView.m; sourceTree = "<group>"; };
+		458AB7A222CB210C00388F19 /* signatureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = signatureView.m; sourceTree = "<group>"; };
+		458AB7A422CB210C00388F19 /* PTTPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTPickView.m; sourceTree = "<group>"; };
+		458AB7A522CB210C00388F19 /* PTT_Cities.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PTT_Cities.plist; sourceTree = "<group>"; };
+		458AB7A622CB210C00388F19 /* Address.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Address.plist; sourceTree = "<group>"; };
+		458AB7A722CB210C00388F19 /* PTT_Counties.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PTT_Counties.plist; sourceTree = "<group>"; };
+		458AB7A822CB210C00388F19 /* PTTPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTPickView.h; sourceTree = "<group>"; };
+		458AB7A922CB210C00388F19 /* PTT_Provice.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PTT_Provice.plist; sourceTree = "<group>"; };
+		458AB7AB22CB210C00388F19 /* PTTNonNetwork.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTNonNetwork.h; sourceTree = "<group>"; };
+		458AB7AC22CB210C00388F19 /* PTTNonNetwork.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTNonNetwork.m; sourceTree = "<group>"; };
+		458AB7AE22CB210C00388F19 /* PTTBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTBaseViewController.m; sourceTree = "<group>"; };
+		458AB7AF22CB210C00388F19 /* PTTBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTBaseViewController.h; sourceTree = "<group>"; };
+		458AB7B122CB210C00388F19 /* PTTStringFromHtml.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTStringFromHtml.m; sourceTree = "<group>"; };
+		458AB7B222CB210C00388F19 /* PTTStringFromHtml.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTStringFromHtml.h; sourceTree = "<group>"; };
+		458AB7B422CB210C00388F19 /* PTTMaskManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTMaskManager.h; sourceTree = "<group>"; };
+		458AB7B522CB210C00388F19 /* back-opaque.imageset.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "back-opaque.imageset.zip"; sourceTree = "<group>"; };
+		458AB7B622CB210C00388F19 /* PTTMaskManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTMaskManager.m; sourceTree = "<group>"; };
+		458AB7B822CB210C00388F19 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		458AB7B922CB210C00388F19 /* back-opaque@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-opaque@3x.png"; sourceTree = "<group>"; };
+		458AB7BA22CB210C00388F19 /* back-opaque@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-opaque@2x.png"; sourceTree = "<group>"; };
+		458AB7BC22CB210C00388F19 /* PTTDateKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTDateKit.h; sourceTree = "<group>"; };
+		458AB7BD22CB210C00388F19 /* PTTDateKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTDateKit.m; sourceTree = "<group>"; };
+		458AB7BF22CB210C00388F19 /* PTTStoreManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTStoreManager.m; sourceTree = "<group>"; };
+		458AB7C022CB210C00388F19 /* PTTStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTStoreManager.h; sourceTree = "<group>"; };
+		458AB7C222CB210C00388F19 /* PTTPlayAVBasic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PTTPlayAVBasic.m; sourceTree = "<group>"; };
+		458AB7C322CB210C00388F19 /* PTTPlayAVBasic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PTTPlayAVBasic.h; sourceTree = "<group>"; };
+		458AB7C722CB210C00388F19 /* BSLMonthCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSLMonthCollectionView.h; sourceTree = "<group>"; };
+		458AB7C822CB210C00388F19 /* WeeksView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeeksView.m; sourceTree = "<group>"; };
+		458AB7C922CB210C00388F19 /* CalendaDaysCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendaDaysCell.h; sourceTree = "<group>"; };
+		458AB7CA22CB210C00388F19 /* CalendaDaysCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendaDaysCell.m; sourceTree = "<group>"; };
+		458AB7CB22CB210C00388F19 /* WeeksView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeeksView.h; sourceTree = "<group>"; };
+		458AB7CC22CB210C00388F19 /* BSLMonthCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSLMonthCollectionView.m; sourceTree = "<group>"; };
+		458AB7CD22CB210C00388F19 /* BSLCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BSLCalendar.h; sourceTree = "<group>"; };
+		458AB7CF22CB210C00388F19 /* NSDate+Decomposer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Decomposer.m"; sourceTree = "<group>"; };
+		458AB7D022CB210C00388F19 /* MonthOpeartion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MonthOpeartion.h; sourceTree = "<group>"; };
+		458AB7D122CB210C00388F19 /* MonthOpeartion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MonthOpeartion.m; sourceTree = "<group>"; };
+		458AB7D222CB210C00388F19 /* NSDate+Decomposer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Decomposer.h"; sourceTree = "<group>"; };
+		458AB7D422CB210C00388F19 /* CalendarModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendarModel.h; sourceTree = "<group>"; };
+		458AB7D522CB210C00388F19 /* CalendarModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendarModel.m; sourceTree = "<group>"; };
+		458AB7D622CB210C00388F19 /* BSLCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSLCalendar.m; sourceTree = "<group>"; };
+		458AB7D822CB210C00388F19 /* ReturnFirstAlphebet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReturnFirstAlphebet.m; sourceTree = "<group>"; };
+		458AB7DA22CB210C00388F19 /* pinyin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pinyin.h; sourceTree = "<group>"; };
+		458AB7DB22CB210C00388F19 /* pinyin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = pinyin.m; sourceTree = "<group>"; };
+		458AB7DC22CB210C00388F19 /* ReturnFirstAlphebet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReturnFirstAlphebet.h; sourceTree = "<group>"; };
 		80BEA979F8A7C5B231A18139 /* libPods-LLKits.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LLKits.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A945F107BDA78A1558B924F9 /* Pods-LLKits.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LLKits.debug.xcconfig"; path = "Target Support Files/Pods-LLKits/Pods-LLKits.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -244,7 +244,7 @@
 				458AB58722CA561A00388F19 /* AppDelegate.m */,
 				458AB58922CA561A00388F19 /* ViewController.h */,
 				458AB58A22CA561A00388F19 /* ViewController.m */,
-				458AB67122CA57CA00388F19 /* LLKits */,
+				458AB75222CB210C00388F19 /* LLKits */,
 				458AB58C22CA561A00388F19 /* Main.storyboard */,
 				458AB58F22CA561B00388F19 /* Assets.xcassets */,
 				458AB59122CA561B00388F19 /* LaunchScreen.storyboard */,
@@ -254,385 +254,401 @@
 			path = LLKits;
 			sourceTree = "<group>";
 		};
-		458AB67122CA57CA00388F19 /* LLKits */ = {
+		458AB75222CB210C00388F19 /* LLKits */ = {
 			isa = PBXGroup;
 			children = (
-				458AB75122CB105200388F19 /* LLKits.pch */,
-				458AB67222CA57CA00388F19 /* PTTPageControl */,
-				458AB67522CA57CA00388F19 /* 引导图 */,
-				458AB67822CA57CA00388F19 /* 阿拉伯数字小写转大写 */,
-				458AB67B22CA57CA00388F19 /* 手势解锁 */,
-				458AB68022CA57CA00388F19 /* 图片处理 */,
-				458AB68322CA57CA00388F19 /* 轮播图 */,
-				458AB68622CA57CA00388F19 /* category */,
-				458AB68F22CA57CA00388F19 /* PTTUtil */,
-				458AB69222CA57CA00388F19 /* 相机调用 */,
-				458AB69522CA57CA00388F19 /* 提示框 */,
-				458AB69C22CA57CA00388F19 /* WKWebVeiwController */,
-				458AB69F22CA57CA00388F19 /* 创建带手势的图片 */,
-				458AB6A222CA57CA00388F19 /* 颜色处理 */,
-				458AB6A722CA57CA00388F19 /* 网络请求 */,
-				458AB6AA22CA57CA00388F19 /* 检测网络状态 */,
-				458AB6AD22CA57CA00388F19 /* 地图定位 */,
-				458AB6B022CA57CA00388F19 /* 数据处理 */,
-				458AB6B622CA57CA00388F19 /* 手写签名 */,
-				458AB6BB22CA57CA00388F19 /* 日期、年份、自定义数据选择器 */,
-				458AB6C222CA57CA00388F19 /* 无网络数据加载 */,
-				458AB6C522CA57CA00388F19 /* 根视图控制器 */,
-				458AB6C822CA57CA00388F19 /* 提取html数据中文字信息 */,
-				458AB6CB22CA57CA00388F19 /* 蒙版 */,
-				458AB6E222CA57CA00388F19 /* 日期处理 */,
-				458AB6E522CA57CA00388F19 /* 苹果内购 */,
-				458AB6E822CA57CA00388F19 /* 音频播放 */,
-				458AB6F022CA57CB00388F19 /* BSLCalendar */,
-				458AB70222CA57CB00388F19 /* 检测汉字输入首字母的代码文件 */,
+				458AB75322CB210C00388F19 /* LLKits */,
 			);
 			path = LLKits;
 			sourceTree = "<group>";
 		};
-		458AB67222CA57CA00388F19 /* PTTPageControl */ = {
+		458AB75322CB210C00388F19 /* LLKits */ = {
 			isa = PBXGroup;
 			children = (
-				458AB67322CA57CA00388F19 /* PTTPageControl.h */,
-				458AB67422CA57CA00388F19 /* PTTPageControl.m */,
+				458AB75422CB210C00388F19 /* PTTPageControl */,
+				458AB75722CB210C00388F19 /* 引导图 */,
+				458AB75A22CB210C00388F19 /* 阿拉伯数字小写转大写 */,
+				458AB75D22CB210C00388F19 /* 手势解锁 */,
+				458AB76222CB210C00388F19 /* 图片处理 */,
+				458AB76522CB210C00388F19 /* 轮播图 */,
+				458AB76822CB210C00388F19 /* category */,
+				458AB77122CB210C00388F19 /* PTTUtil */,
+				458AB77422CB210C00388F19 /* 相机调用 */,
+				458AB77722CB210C00388F19 /* 提示框 */,
+				458AB77E22CB210C00388F19 /* LLKits.pch */,
+				458AB77F22CB210C00388F19 /* WKWebVeiwController */,
+				458AB78222CB210C00388F19 /* 创建带手势的图片 */,
+				458AB78522CB210C00388F19 /* 颜色处理 */,
+				458AB78A22CB210C00388F19 /* 网络请求 */,
+				458AB78D22CB210C00388F19 /* 检测网络状态 */,
+				458AB79022CB210C00388F19 /* 地图定位 */,
+				458AB79322CB210C00388F19 /* 数据处理 */,
+				458AB79E22CB210C00388F19 /* 手写签名 */,
+				458AB7A322CB210C00388F19 /* 日期、年份、自定义数据选择器 */,
+				458AB7AA22CB210C00388F19 /* 无网络数据加载 */,
+				458AB7AD22CB210C00388F19 /* 根视图控制器 */,
+				458AB7B022CB210C00388F19 /* 提取html数据中文字信息 */,
+				458AB7B322CB210C00388F19 /* 蒙版 */,
+				458AB7BB22CB210C00388F19 /* 日期处理 */,
+				458AB7BE22CB210C00388F19 /* 苹果内购 */,
+				458AB7C122CB210C00388F19 /* 音频播放 */,
+				458AB7C422CB210C00388F19 /* 多个视图切换控制 */,
+				458AB7C522CB210C00388F19 /* BSLCalendar */,
+				458AB7D722CB210C00388F19 /* 检测汉字输入首字母的代码文件 */,
+			);
+			path = LLKits;
+			sourceTree = "<group>";
+		};
+		458AB75422CB210C00388F19 /* PTTPageControl */ = {
+			isa = PBXGroup;
+			children = (
+				458AB75522CB210C00388F19 /* PTTPageControl.h */,
+				458AB75622CB210C00388F19 /* PTTPageControl.m */,
 			);
 			path = PTTPageControl;
 			sourceTree = "<group>";
 		};
-		458AB67522CA57CA00388F19 /* 引导图 */ = {
+		458AB75722CB210C00388F19 /* 引导图 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB67622CA57CA00388F19 /* PTTGuideView.m */,
-				458AB67722CA57CA00388F19 /* PTTGuideView.h */,
+				458AB75822CB210C00388F19 /* PTTGuideView.m */,
+				458AB75922CB210C00388F19 /* PTTGuideView.h */,
 			);
 			path = "引导图";
 			sourceTree = "<group>";
 		};
-		458AB67822CA57CA00388F19 /* 阿拉伯数字小写转大写 */ = {
+		458AB75A22CB210C00388F19 /* 阿拉伯数字小写转大写 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB67922CA57CA00388F19 /* PTTNumberTransform.m */,
-				458AB67A22CA57CA00388F19 /* PTTNumberTransform.h */,
+				458AB75B22CB210C00388F19 /* PTTNumberTransform.m */,
+				458AB75C22CB210C00388F19 /* PTTNumberTransform.h */,
 			);
 			path = "阿拉伯数字小写转大写";
 			sourceTree = "<group>";
 		};
-		458AB67B22CA57CA00388F19 /* 手势解锁 */ = {
+		458AB75D22CB210C00388F19 /* 手势解锁 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB67C22CA57CA00388F19 /* PTTGestureLockV.h */,
-				458AB67D22CA57CA00388F19 /* non_select.png */,
-				458AB67E22CA57CA00388F19 /* PTTGestureLockV.m */,
-				458AB67F22CA57CA00388F19 /* select.png */,
+				458AB75E22CB210C00388F19 /* PTTGestureLockV.h */,
+				458AB75F22CB210C00388F19 /* non_select.png */,
+				458AB76022CB210C00388F19 /* PTTGestureLockV.m */,
+				458AB76122CB210C00388F19 /* select.png */,
 			);
 			path = "手势解锁";
 			sourceTree = "<group>";
 		};
-		458AB68022CA57CA00388F19 /* 图片处理 */ = {
+		458AB76222CB210C00388F19 /* 图片处理 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB68122CA57CA00388F19 /* PTTImageManager.m */,
-				458AB68222CA57CA00388F19 /* PTTImageManager.h */,
+				458AB76322CB210C00388F19 /* PTTImageManager.m */,
+				458AB76422CB210C00388F19 /* PTTImageManager.h */,
 			);
 			path = "图片处理";
 			sourceTree = "<group>";
 		};
-		458AB68322CA57CA00388F19 /* 轮播图 */ = {
+		458AB76522CB210C00388F19 /* 轮播图 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB68422CA57CA00388F19 /* PTTCycleSrollView.m */,
-				458AB68522CA57CA00388F19 /* PTTCycleSrollView.h */,
+				458AB76622CB210C00388F19 /* PTTCycleSrollView.m */,
+				458AB76722CB210C00388F19 /* PTTCycleSrollView.h */,
 			);
 			path = "轮播图";
 			sourceTree = "<group>";
 		};
-		458AB68622CA57CA00388F19 /* category */ = {
+		458AB76822CB210C00388F19 /* category */ = {
 			isa = PBXGroup;
 			children = (
-				458AB68722CA57CA00388F19 /* UILabel+PTT.m */,
-				458AB68822CA57CA00388F19 /* UIView+Extension.h */,
-				458AB68922CA57CA00388F19 /* NSString+PTT.h */,
-				458AB68A22CA57CA00388F19 /* UIButton+PTT.m */,
-				458AB68B22CA57CA00388F19 /* UILabel+PTT.h */,
-				458AB68C22CA57CA00388F19 /* NSString+PTT.m */,
-				458AB68D22CA57CA00388F19 /* UIView+Extension.m */,
-				458AB68E22CA57CA00388F19 /* UIButton+PTT.h */,
+				458AB76922CB210C00388F19 /* UILabel+PTT.m */,
+				458AB76A22CB210C00388F19 /* UIView+Extension.h */,
+				458AB76B22CB210C00388F19 /* NSString+PTT.h */,
+				458AB76C22CB210C00388F19 /* UIButton+PTT.m */,
+				458AB76D22CB210C00388F19 /* UILabel+PTT.h */,
+				458AB76E22CB210C00388F19 /* NSString+PTT.m */,
+				458AB76F22CB210C00388F19 /* UIView+Extension.m */,
+				458AB77022CB210C00388F19 /* UIButton+PTT.h */,
 			);
 			path = category;
 			sourceTree = "<group>";
 		};
-		458AB68F22CA57CA00388F19 /* PTTUtil */ = {
+		458AB77122CB210C00388F19 /* PTTUtil */ = {
 			isa = PBXGroup;
 			children = (
-				458AB69022CA57CA00388F19 /* PTTUtil.m */,
-				458AB69122CA57CA00388F19 /* PTTUtil.h */,
+				458AB77222CB210C00388F19 /* PTTUtil.m */,
+				458AB77322CB210C00388F19 /* PTTUtil.h */,
 			);
 			path = PTTUtil;
 			sourceTree = "<group>";
 		};
-		458AB69222CA57CA00388F19 /* 相机调用 */ = {
+		458AB77422CB210C00388F19 /* 相机调用 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB69322CA57CA00388F19 /* PTTCamerManager.h */,
-				458AB69422CA57CA00388F19 /* PTTCamerManager.m */,
+				458AB77522CB210C00388F19 /* PTTCamerManager.h */,
+				458AB77622CB210C00388F19 /* PTTCamerManager.m */,
 			);
 			path = "相机调用";
 			sourceTree = "<group>";
 		};
-		458AB69522CA57CA00388F19 /* 提示框 */ = {
+		458AB77722CB210C00388F19 /* 提示框 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB69622CA57CA00388F19 /* PTTShowAlertView.m */,
-				458AB69722CA57CA00388F19 /* ShowMessageTipUtil.h */,
-				458AB69822CA57CA00388F19 /* PttLoadingTip.h */,
-				458AB69922CA57CA00388F19 /* PTTShowAlertView.h */,
-				458AB69A22CA57CA00388F19 /* ShowMessageTipUtil.m */,
-				458AB69B22CA57CA00388F19 /* PttLoadingTip.m */,
+				458AB77822CB210C00388F19 /* PTTShowAlertView.m */,
+				458AB77922CB210C00388F19 /* ShowMessageTipUtil.h */,
+				458AB77A22CB210C00388F19 /* PttLoadingTip.h */,
+				458AB77B22CB210C00388F19 /* PTTShowAlertView.h */,
+				458AB77C22CB210C00388F19 /* ShowMessageTipUtil.m */,
+				458AB77D22CB210C00388F19 /* PttLoadingTip.m */,
 			);
 			path = "提示框";
 			sourceTree = "<group>";
 		};
-		458AB69C22CA57CA00388F19 /* WKWebVeiwController */ = {
+		458AB77F22CB210C00388F19 /* WKWebVeiwController */ = {
 			isa = PBXGroup;
 			children = (
-				458AB69D22CA57CA00388F19 /* PTTWebViewController.m */,
-				458AB69E22CA57CA00388F19 /* PTTWebViewController.h */,
+				458AB78022CB210C00388F19 /* PTTWebViewController.m */,
+				458AB78122CB210C00388F19 /* PTTWebViewController.h */,
 			);
 			path = WKWebVeiwController;
 			sourceTree = "<group>";
 		};
-		458AB69F22CA57CA00388F19 /* 创建带手势的图片 */ = {
+		458AB78222CB210C00388F19 /* 创建带手势的图片 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6A022CA57CA00388F19 /* UIImageView+PTT.m */,
-				458AB6A122CA57CA00388F19 /* UIImageView+PTT.h */,
+				458AB78322CB210C00388F19 /* UIImageView+PTT.m */,
+				458AB78422CB210C00388F19 /* UIImageView+PTT.h */,
 			);
 			path = "创建带手势的图片";
 			sourceTree = "<group>";
 		};
-		458AB6A222CA57CA00388F19 /* 颜色处理 */ = {
+		458AB78522CB210C00388F19 /* 颜色处理 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6A322CA57CA00388F19 /* UIColor+Simple.h */,
-				458AB6A422CA57CA00388F19 /* ColorModel.h */,
-				458AB6A522CA57CA00388F19 /* UIColor+Simple.m */,
-				458AB6A622CA57CA00388F19 /* ColorModel.m */,
+				458AB78622CB210C00388F19 /* UIColor+Simple.h */,
+				458AB78722CB210C00388F19 /* ColorModel.h */,
+				458AB78822CB210C00388F19 /* UIColor+Simple.m */,
+				458AB78922CB210C00388F19 /* ColorModel.m */,
 			);
 			path = "颜色处理";
 			sourceTree = "<group>";
 		};
-		458AB6A722CA57CA00388F19 /* 网络请求 */ = {
+		458AB78A22CB210C00388F19 /* 网络请求 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6A822CA57CA00388F19 /* HttpService.h */,
-				458AB6A922CA57CA00388F19 /* HttpService.m */,
+				458AB78B22CB210C00388F19 /* HttpService.h */,
+				458AB78C22CB210C00388F19 /* HttpService.m */,
 			);
 			path = "网络请求";
 			sourceTree = "<group>";
 		};
-		458AB6AA22CA57CA00388F19 /* 检测网络状态 */ = {
+		458AB78D22CB210C00388F19 /* 检测网络状态 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6AB22CA57CA00388F19 /* PTTReachability.m */,
-				458AB6AC22CA57CA00388F19 /* PTTReachability.h */,
+				458AB78E22CB210C00388F19 /* PTTReachability.m */,
+				458AB78F22CB210C00388F19 /* PTTReachability.h */,
 			);
 			path = "检测网络状态";
 			sourceTree = "<group>";
 		};
-		458AB6AD22CA57CA00388F19 /* 地图定位 */ = {
+		458AB79022CB210C00388F19 /* 地图定位 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6AE22CA57CA00388F19 /* PTTLocationManager.h */,
-				458AB6AF22CA57CA00388F19 /* PTTLocationManager.m */,
+				458AB79122CB210C00388F19 /* PTTLocationManager.h */,
+				458AB79222CB210C00388F19 /* PTTLocationManager.m */,
 			);
 			path = "地图定位";
 			sourceTree = "<group>";
 		};
-		458AB6B022CA57CA00388F19 /* 数据处理 */ = {
+		458AB79322CB210C00388F19 /* 数据处理 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB74922CB09A800388F19 /* Reachability */,
-				458AB6B122CA57CA00388F19 /* GTMBase64.h */,
-				458AB6B222CA57CA00388F19 /* PTT_Data_Kit.h */,
-				458AB6B322CA57CA00388F19 /* GTMDefines.h */,
-				458AB6B422CA57CA00388F19 /* GTMBase64.m */,
-				458AB6B522CA57CA00388F19 /* PTT_Data_Kit.m */,
+				458AB79422CB210C00388F19 /* GTMBase64.h */,
+				458AB79522CB210C00388F19 /* PTT_Data_Kit.h */,
+				458AB79622CB210C00388F19 /* Reachability */,
+				458AB79B22CB210C00388F19 /* GTMDefines.h */,
+				458AB79C22CB210C00388F19 /* GTMBase64.m */,
+				458AB79D22CB210C00388F19 /* PTT_Data_Kit.m */,
 			);
 			path = "数据处理";
 			sourceTree = "<group>";
 		};
-		458AB6B622CA57CA00388F19 /* 手写签名 */ = {
+		458AB79622CB210C00388F19 /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6B722CA57CA00388F19 /* PTTSignatureView.h */,
-				458AB6B822CA57CA00388F19 /* signatureView.h */,
-				458AB6B922CA57CA00388F19 /* PTTSignatureView.m */,
-				458AB6BA22CA57CA00388F19 /* signatureView.m */,
+				458AB79722CB210C00388F19 /* Reachability.m */,
+				458AB79822CB210C00388F19 /* LICENCE.txt */,
+				458AB79922CB210C00388F19 /* README.md */,
+				458AB79A22CB210C00388F19 /* Reachability.h */,
+			);
+			path = Reachability;
+			sourceTree = "<group>";
+		};
+		458AB79E22CB210C00388F19 /* 手写签名 */ = {
+			isa = PBXGroup;
+			children = (
+				458AB79F22CB210C00388F19 /* PTTSignatureView.h */,
+				458AB7A022CB210C00388F19 /* signatureView.h */,
+				458AB7A122CB210C00388F19 /* PTTSignatureView.m */,
+				458AB7A222CB210C00388F19 /* signatureView.m */,
 			);
 			path = "手写签名";
 			sourceTree = "<group>";
 		};
-		458AB6BB22CA57CA00388F19 /* 日期、年份、自定义数据选择器 */ = {
+		458AB7A322CB210C00388F19 /* 日期、年份、自定义数据选择器 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6BC22CA57CA00388F19 /* PTTPickView.m */,
-				458AB6BD22CA57CA00388F19 /* PTT_Cities.plist */,
-				458AB6BE22CA57CA00388F19 /* Address.plist */,
-				458AB6BF22CA57CA00388F19 /* PTT_Counties.plist */,
-				458AB6C022CA57CA00388F19 /* PTTPickView.h */,
-				458AB6C122CA57CA00388F19 /* PTT_Provice.plist */,
+				458AB7A422CB210C00388F19 /* PTTPickView.m */,
+				458AB7A522CB210C00388F19 /* PTT_Cities.plist */,
+				458AB7A622CB210C00388F19 /* Address.plist */,
+				458AB7A722CB210C00388F19 /* PTT_Counties.plist */,
+				458AB7A822CB210C00388F19 /* PTTPickView.h */,
+				458AB7A922CB210C00388F19 /* PTT_Provice.plist */,
 			);
 			path = "日期、年份、自定义数据选择器";
 			sourceTree = "<group>";
 		};
-		458AB6C222CA57CA00388F19 /* 无网络数据加载 */ = {
+		458AB7AA22CB210C00388F19 /* 无网络数据加载 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6C322CA57CA00388F19 /* PTTNonNetwork.h */,
-				458AB6C422CA57CA00388F19 /* PTTNonNetwork.m */,
+				458AB7AB22CB210C00388F19 /* PTTNonNetwork.h */,
+				458AB7AC22CB210C00388F19 /* PTTNonNetwork.m */,
 			);
 			path = "无网络数据加载";
 			sourceTree = "<group>";
 		};
-		458AB6C522CA57CA00388F19 /* 根视图控制器 */ = {
+		458AB7AD22CB210C00388F19 /* 根视图控制器 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6C622CA57CA00388F19 /* PTTBaseViewController.m */,
-				458AB6C722CA57CA00388F19 /* PTTBaseViewController.h */,
+				458AB7AE22CB210C00388F19 /* PTTBaseViewController.m */,
+				458AB7AF22CB210C00388F19 /* PTTBaseViewController.h */,
 			);
 			path = "根视图控制器";
 			sourceTree = "<group>";
 		};
-		458AB6C822CA57CA00388F19 /* 提取html数据中文字信息 */ = {
+		458AB7B022CB210C00388F19 /* 提取html数据中文字信息 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6C922CA57CA00388F19 /* PTTStringFromHtml.m */,
-				458AB6CA22CA57CA00388F19 /* PTTStringFromHtml.h */,
+				458AB7B122CB210C00388F19 /* PTTStringFromHtml.m */,
+				458AB7B222CB210C00388F19 /* PTTStringFromHtml.h */,
 			);
 			path = "提取html数据中文字信息";
 			sourceTree = "<group>";
 		};
-		458AB6CB22CA57CA00388F19 /* 蒙版 */ = {
+		458AB7B322CB210C00388F19 /* 蒙版 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6CC22CA57CA00388F19 /* PTTMaskManager.h */,
-				458AB6CD22CA57CA00388F19 /* back-opaque.imageset.zip */,
-				458AB6CE22CA57CA00388F19 /* PTTMaskManager.m */,
-				458AB6CF22CA57CA00388F19 /* back-opaque.imageset */,
+				458AB7B422CB210C00388F19 /* PTTMaskManager.h */,
+				458AB7B522CB210C00388F19 /* back-opaque.imageset.zip */,
+				458AB7B622CB210C00388F19 /* PTTMaskManager.m */,
+				458AB7B722CB210C00388F19 /* back-opaque.imageset */,
 			);
 			path = "蒙版";
 			sourceTree = "<group>";
 		};
-		458AB6CF22CA57CA00388F19 /* back-opaque.imageset */ = {
+		458AB7B722CB210C00388F19 /* back-opaque.imageset */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6D022CA57CA00388F19 /* Contents.json */,
-				458AB6D122CA57CA00388F19 /* back-opaque@3x.png */,
-				458AB6D222CA57CA00388F19 /* back-opaque@2x.png */,
+				458AB7B822CB210C00388F19 /* Contents.json */,
+				458AB7B922CB210C00388F19 /* back-opaque@3x.png */,
+				458AB7BA22CB210C00388F19 /* back-opaque@2x.png */,
 			);
 			path = "back-opaque.imageset";
 			sourceTree = "<group>";
 		};
-		458AB6E222CA57CA00388F19 /* 日期处理 */ = {
+		458AB7BB22CB210C00388F19 /* 日期处理 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6E322CA57CA00388F19 /* PTTDateKit.h */,
-				458AB6E422CA57CA00388F19 /* PTTDateKit.m */,
+				458AB7BC22CB210C00388F19 /* PTTDateKit.h */,
+				458AB7BD22CB210C00388F19 /* PTTDateKit.m */,
 			);
 			path = "日期处理";
 			sourceTree = "<group>";
 		};
-		458AB6E522CA57CA00388F19 /* 苹果内购 */ = {
+		458AB7BE22CB210C00388F19 /* 苹果内购 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6E622CA57CA00388F19 /* PTTStoreManager.m */,
-				458AB6E722CA57CA00388F19 /* PTTStoreManager.h */,
+				458AB7BF22CB210C00388F19 /* PTTStoreManager.m */,
+				458AB7C022CB210C00388F19 /* PTTStoreManager.h */,
 			);
 			path = "苹果内购";
 			sourceTree = "<group>";
 		};
-		458AB6E822CA57CA00388F19 /* 音频播放 */ = {
+		458AB7C122CB210C00388F19 /* 音频播放 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6E922CA57CA00388F19 /* PTTPlayAVBasic.m */,
-				458AB6EA22CA57CB00388F19 /* PTTPlayAVBasic.h */,
+				458AB7C222CB210C00388F19 /* PTTPlayAVBasic.m */,
+				458AB7C322CB210C00388F19 /* PTTPlayAVBasic.h */,
 			);
 			path = "音频播放";
 			sourceTree = "<group>";
 		};
-		458AB6F022CA57CB00388F19 /* BSLCalendar */ = {
+		458AB7C422CB210C00388F19 /* 多个视图切换控制 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6F122CA57CB00388F19 /* ControlsView */,
-				458AB6F822CA57CB00388F19 /* BSLCalendar.h */,
-				458AB6F922CA57CB00388F19 /* Manager */,
-				458AB6FE22CA57CB00388F19 /* Model */,
-				458AB70122CA57CB00388F19 /* BSLCalendar.m */,
+			);
+			path = "多个视图切换控制";
+			sourceTree = "<group>";
+		};
+		458AB7C522CB210C00388F19 /* BSLCalendar */ = {
+			isa = PBXGroup;
+			children = (
+				458AB7C622CB210C00388F19 /* ControlsView */,
+				458AB7CD22CB210C00388F19 /* BSLCalendar.h */,
+				458AB7CE22CB210C00388F19 /* Manager */,
+				458AB7D322CB210C00388F19 /* Model */,
+				458AB7D622CB210C00388F19 /* BSLCalendar.m */,
 			);
 			path = BSLCalendar;
 			sourceTree = "<group>";
 		};
-		458AB6F122CA57CB00388F19 /* ControlsView */ = {
+		458AB7C622CB210C00388F19 /* ControlsView */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6F222CA57CB00388F19 /* BSLMonthCollectionView.h */,
-				458AB6F322CA57CB00388F19 /* WeeksView.m */,
-				458AB6F422CA57CB00388F19 /* CalendaDaysCell.h */,
-				458AB6F522CA57CB00388F19 /* CalendaDaysCell.m */,
-				458AB6F622CA57CB00388F19 /* WeeksView.h */,
-				458AB6F722CA57CB00388F19 /* BSLMonthCollectionView.m */,
+				458AB7C722CB210C00388F19 /* BSLMonthCollectionView.h */,
+				458AB7C822CB210C00388F19 /* WeeksView.m */,
+				458AB7C922CB210C00388F19 /* CalendaDaysCell.h */,
+				458AB7CA22CB210C00388F19 /* CalendaDaysCell.m */,
+				458AB7CB22CB210C00388F19 /* WeeksView.h */,
+				458AB7CC22CB210C00388F19 /* BSLMonthCollectionView.m */,
 			);
 			path = ControlsView;
 			sourceTree = "<group>";
 		};
-		458AB6F922CA57CB00388F19 /* Manager */ = {
+		458AB7CE22CB210C00388F19 /* Manager */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6FA22CA57CB00388F19 /* NSDate+Decomposer.m */,
-				458AB6FB22CA57CB00388F19 /* MonthOpeartion.h */,
-				458AB6FC22CA57CB00388F19 /* MonthOpeartion.m */,
-				458AB6FD22CA57CB00388F19 /* NSDate+Decomposer.h */,
+				458AB7CF22CB210C00388F19 /* NSDate+Decomposer.m */,
+				458AB7D022CB210C00388F19 /* MonthOpeartion.h */,
+				458AB7D122CB210C00388F19 /* MonthOpeartion.m */,
+				458AB7D222CB210C00388F19 /* NSDate+Decomposer.h */,
 			);
 			path = Manager;
 			sourceTree = "<group>";
 		};
-		458AB6FE22CA57CB00388F19 /* Model */ = {
+		458AB7D322CB210C00388F19 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				458AB6FF22CA57CB00388F19 /* CalendarModel.h */,
-				458AB70022CA57CB00388F19 /* CalendarModel.m */,
+				458AB7D422CB210C00388F19 /* CalendarModel.h */,
+				458AB7D522CB210C00388F19 /* CalendarModel.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		458AB70222CA57CB00388F19 /* 检测汉字输入首字母的代码文件 */ = {
+		458AB7D722CB210C00388F19 /* 检测汉字输入首字母的代码文件 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB70322CA57CB00388F19 /* ReturnFirstAlphebet.m */,
-				458AB70422CA57CB00388F19 /* 取出汉字首字母的头文件 */,
-				458AB70722CA57CB00388F19 /* ReturnFirstAlphebet.h */,
+				458AB7D822CB210C00388F19 /* ReturnFirstAlphebet.m */,
+				458AB7D922CB210C00388F19 /* 取出汉字首字母的头文件 */,
+				458AB7DC22CB210C00388F19 /* ReturnFirstAlphebet.h */,
 			);
 			path = "检测汉字输入首字母的代码文件";
 			sourceTree = "<group>";
 		};
-		458AB70422CA57CB00388F19 /* 取出汉字首字母的头文件 */ = {
+		458AB7D922CB210C00388F19 /* 取出汉字首字母的头文件 */ = {
 			isa = PBXGroup;
 			children = (
-				458AB70522CA57CB00388F19 /* pinyin.h */,
-				458AB70622CA57CB00388F19 /* pinyin.m */,
+				458AB7DA22CB210C00388F19 /* pinyin.h */,
+				458AB7DB22CB210C00388F19 /* pinyin.m */,
 			);
 			path = "取出汉字首字母的头文件";
-			sourceTree = "<group>";
-		};
-		458AB74922CB09A800388F19 /* Reachability */ = {
-			isa = PBXGroup;
-			children = (
-				458AB74A22CB09A800388F19 /* Reachability.m */,
-				458AB74B22CB09A800388F19 /* LICENCE.txt */,
-				458AB74C22CB09A800388F19 /* README.md */,
-				458AB74D22CB09A800388F19 /* Reachability.h */,
-			);
-			path = Reachability;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -694,21 +710,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				458AB72822CA57CB00388F19 /* PTT_Provice.plist in Resources */,
-				458AB73022CA57CB00388F19 /* back-opaque@2x.png in Resources */,
+				458AB7F622CB210D00388F19 /* LICENCE.txt in Resources */,
+				458AB7FF22CB210D00388F19 /* PTT_Counties.plist in Resources */,
 				458AB59322CA561B00388F19 /* LaunchScreen.storyboard in Resources */,
+				458AB80422CB210D00388F19 /* back-opaque.imageset.zip in Resources */,
+				458AB7FD22CB210D00388F19 /* PTT_Cities.plist in Resources */,
+				458AB7FE22CB210D00388F19 /* Address.plist in Resources */,
 				458AB59022CA561B00388F19 /* Assets.xcassets in Resources */,
-				458AB74F22CB09A800388F19 /* LICENCE.txt in Resources */,
+				458AB80722CB210D00388F19 /* back-opaque@3x.png in Resources */,
+				458AB80622CB210D00388F19 /* Contents.json in Resources */,
+				458AB7F722CB210D00388F19 /* README.md in Resources */,
 				458AB58E22CA561A00388F19 /* Main.storyboard in Resources */,
-				458AB70B22CA57CB00388F19 /* non_select.png in Resources */,
-				458AB72C22CA57CB00388F19 /* back-opaque.imageset.zip in Resources */,
-				458AB72522CA57CB00388F19 /* PTT_Cities.plist in Resources */,
-				458AB72722CA57CB00388F19 /* PTT_Counties.plist in Resources */,
-				458AB70D22CA57CB00388F19 /* select.png in Resources */,
-				458AB72F22CA57CB00388F19 /* back-opaque@3x.png in Resources */,
-				458AB75022CB09A800388F19 /* README.md in Resources */,
-				458AB72E22CA57CB00388F19 /* Contents.json in Resources */,
-				458AB72622CA57CB00388F19 /* Address.plist in Resources */,
+				458AB7E022CB210D00388F19 /* non_select.png in Resources */,
+				458AB80022CB210D00388F19 /* PTT_Provice.plist in Resources */,
+				458AB7E222CB210D00388F19 /* select.png in Resources */,
+				458AB80822CB210D00388F19 /* back-opaque@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -761,52 +777,52 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				458AB74222CA57CB00388F19 /* CalendarModel.m in Sources */,
-				458AB72422CA57CB00388F19 /* PTTPickView.m in Sources */,
-				458AB74422CA57CB00388F19 /* ReturnFirstAlphebet.m in Sources */,
-				458AB71D22CA57CB00388F19 /* HttpService.m in Sources */,
-				458AB71222CA57CB00388F19 /* NSString+PTT.m in Sources */,
-				458AB73822CA57CB00388F19 /* PTTDateKit.m in Sources */,
-				458AB71522CA57CB00388F19 /* PTTCamerManager.m in Sources */,
-				458AB72A22CA57CB00388F19 /* PTTBaseViewController.m in Sources */,
-				458AB70A22CA57CB00388F19 /* PTTNumberTransform.m in Sources */,
-				458AB72122CA57CB00388F19 /* PTT_Data_Kit.m in Sources */,
-				458AB71C22CA57CB00388F19 /* ColorModel.m in Sources */,
-				458AB71422CA57CB00388F19 /* PTTUtil.m in Sources */,
-				458AB71322CA57CB00388F19 /* UIView+Extension.m in Sources */,
-				458AB74E22CB09A800388F19 /* Reachability.m in Sources */,
-				458AB71022CA57CB00388F19 /* UILabel+PTT.m in Sources */,
+				458AB80E22CB210D00388F19 /* BSLMonthCollectionView.m in Sources */,
+				458AB7F522CB210D00388F19 /* Reachability.m in Sources */,
+				458AB80522CB210D00388F19 /* PTTMaskManager.m in Sources */,
+				458AB7F222CB210D00388F19 /* HttpService.m in Sources */,
+				458AB7E722CB210D00388F19 /* NSString+PTT.m in Sources */,
+				458AB7FB22CB210D00388F19 /* signatureView.m in Sources */,
+				458AB80D22CB210D00388F19 /* CalendaDaysCell.m in Sources */,
+				458AB7EA22CB210D00388F19 /* PTTCamerManager.m in Sources */,
+				458AB80C22CB210D00388F19 /* WeeksView.m in Sources */,
+				458AB81122CB210D00388F19 /* CalendarModel.m in Sources */,
+				458AB7FC22CB210D00388F19 /* PTTPickView.m in Sources */,
+				458AB7DF22CB210D00388F19 /* PTTNumberTransform.m in Sources */,
+				458AB7FA22CB210D00388F19 /* PTTSignatureView.m in Sources */,
+				458AB7F122CB210D00388F19 /* ColorModel.m in Sources */,
+				458AB7E922CB210D00388F19 /* PTTUtil.m in Sources */,
+				458AB80322CB210D00388F19 /* PTTStringFromHtml.m in Sources */,
+				458AB81022CB210D00388F19 /* MonthOpeartion.m in Sources */,
+				458AB80F22CB210D00388F19 /* NSDate+Decomposer.m in Sources */,
+				458AB7E822CB210D00388F19 /* UIView+Extension.m in Sources */,
+				458AB81222CB210D00388F19 /* BSLCalendar.m in Sources */,
+				458AB81422CB210D00388F19 /* pinyin.m in Sources */,
+				458AB7E522CB210D00388F19 /* UILabel+PTT.m in Sources */,
 				458AB58B22CA561A00388F19 /* ViewController.m in Sources */,
-				458AB73F22CA57CB00388F19 /* BSLMonthCollectionView.m in Sources */,
-				458AB71F22CA57CB00388F19 /* PTTLocationManager.m in Sources */,
-				458AB74322CA57CB00388F19 /* BSLCalendar.m in Sources */,
-				458AB74022CA57CB00388F19 /* NSDate+Decomposer.m in Sources */,
-				458AB71A22CA57CB00388F19 /* UIImageView+PTT.m in Sources */,
-				458AB73E22CA57CB00388F19 /* CalendaDaysCell.m in Sources */,
-				458AB72D22CA57CB00388F19 /* PTTMaskManager.m in Sources */,
-				458AB73922CA57CB00388F19 /* PTTStoreManager.m in Sources */,
-				458AB70E22CA57CB00388F19 /* PTTImageManager.m in Sources */,
-				458AB74522CA57CB00388F19 /* pinyin.m in Sources */,
-				458AB74122CA57CB00388F19 /* MonthOpeartion.m in Sources */,
-				458AB72322CA57CB00388F19 /* signatureView.m in Sources */,
-				458AB70822CA57CB00388F19 /* PTTPageControl.m in Sources */,
-				458AB72222CA57CB00388F19 /* PTTSignatureView.m in Sources */,
-				458AB71622CA57CB00388F19 /* PTTShowAlertView.m in Sources */,
-				458AB73D22CA57CB00388F19 /* WeeksView.m in Sources */,
-				458AB71E22CA57CB00388F19 /* PTTReachability.m in Sources */,
-				458AB71722CA57CB00388F19 /* ShowMessageTipUtil.m in Sources */,
-				458AB70C22CA57CB00388F19 /* PTTGestureLockV.m in Sources */,
-				458AB72922CA57CB00388F19 /* PTTNonNetwork.m in Sources */,
-				458AB71B22CA57CB00388F19 /* UIColor+Simple.m in Sources */,
-				458AB70922CA57CB00388F19 /* PTTGuideView.m in Sources */,
-				458AB71822CA57CB00388F19 /* PttLoadingTip.m in Sources */,
+				458AB7F422CB210D00388F19 /* PTTLocationManager.m in Sources */,
+				458AB7EF22CB210D00388F19 /* UIImageView+PTT.m in Sources */,
+				458AB7E322CB210D00388F19 /* PTTImageManager.m in Sources */,
+				458AB7F922CB210D00388F19 /* PTT_Data_Kit.m in Sources */,
+				458AB7DD22CB210D00388F19 /* PTTPageControl.m in Sources */,
+				458AB80222CB210D00388F19 /* PTTBaseViewController.m in Sources */,
+				458AB80922CB210D00388F19 /* PTTDateKit.m in Sources */,
+				458AB81322CB210D00388F19 /* ReturnFirstAlphebet.m in Sources */,
+				458AB7EB22CB210D00388F19 /* PTTShowAlertView.m in Sources */,
+				458AB7F322CB210D00388F19 /* PTTReachability.m in Sources */,
+				458AB7EC22CB210D00388F19 /* ShowMessageTipUtil.m in Sources */,
+				458AB7E122CB210D00388F19 /* PTTGestureLockV.m in Sources */,
+				458AB7F022CB210D00388F19 /* UIColor+Simple.m in Sources */,
+				458AB80122CB210D00388F19 /* PTTNonNetwork.m in Sources */,
+				458AB7DE22CB210D00388F19 /* PTTGuideView.m in Sources */,
+				458AB7ED22CB210D00388F19 /* PttLoadingTip.m in Sources */,
+				458AB80B22CB210D00388F19 /* PTTPlayAVBasic.m in Sources */,
 				458AB59622CA561B00388F19 /* main.m in Sources */,
-				458AB72B22CA57CB00388F19 /* PTTStringFromHtml.m in Sources */,
-				458AB71122CA57CB00388F19 /* UIButton+PTT.m in Sources */,
-				458AB73A22CA57CB00388F19 /* PTTPlayAVBasic.m in Sources */,
-				458AB71922CA57CB00388F19 /* PTTWebViewController.m in Sources */,
-				458AB72022CA57CB00388F19 /* GTMBase64.m in Sources */,
-				458AB70F22CA57CB00388F19 /* PTTCycleSrollView.m in Sources */,
+				458AB7E622CB210D00388F19 /* UIButton+PTT.m in Sources */,
+				458AB7EE22CB210D00388F19 /* PTTWebViewController.m in Sources */,
+				458AB80A22CB210D00388F19 /* PTTStoreManager.m in Sources */,
+				458AB7E422CB210D00388F19 /* PTTCycleSrollView.m in Sources */,
+				458AB7F822CB210D00388F19 /* GTMBase64.m in Sources */,
 				458AB58822CA561A00388F19 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -952,7 +968,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 85YKX846EW;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/LLKits/LLKits/LLKits.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/LLKits/LLKits/LLKits/LLKits.pch";
 				INFOPLIST_FILE = LLKits/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -972,7 +988,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 85YKX846EW;
-				GCC_PREFIX_HEADER = "$(SRCROOT)/LLKits/LLKits/LLKits.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/LLKits/LLKits/LLKits/LLKits.pch";
 				INFOPLIST_FILE = LLKits/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
