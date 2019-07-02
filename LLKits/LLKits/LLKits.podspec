@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = {:type=>"MIT",:file=>"LICENSE"}
   s.author = { 'zhaoguangliang' => '848278419@qq.com' }
   s.platform = :ios, "8.0"
-  s.source = { :git => 'https://github.com/TheRuningAnt/LLKits.git', :tag => 'v1.0.1' }
+  s.source = { :git => 'https://github.com/TheRuningAnt/LLKits.git', :tag => 'v1.0.2' }
   s.source_files = "LLKits/*"
   s.requires_arc = true
   s.dependency 'AFNetworking', '~> 3.0'
